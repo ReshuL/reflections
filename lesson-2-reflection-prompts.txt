@@ -6,8 +6,17 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+=>1. Maybe when experimenting with the current idea, branches would be useful in making a trial version.
+2. Keeping similar content separate or to one particular branch when many things need to be coded. It will give a more clear idea to which part the code belongs!!
+
+
+
+
+
 
 How do the diagrams help you visualize the branch structure?
 
