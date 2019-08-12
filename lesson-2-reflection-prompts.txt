@@ -20,8 +20,16 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+=> Merging branches merges all the changes made to the master branch into 1 main branch which becomes the master branch after merging.
+The data or the commits made are represented by timestamp i.e. they are sorted by time.
+ they can be represented in the diagram to show the flow or the data in the original format.
+
+
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
